@@ -1,0 +1,16 @@
+{
+    "name": "Vxxx",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": [
+        "V2Ray"
+    ],
+    "env": {
+        "UUID": {
+            "description": "V2Ray UUID",
+            "value": "36c47d77-1447-414b-93b8-f3eb3b2b6132"
+        }
+    },
+    "website": "https://github.com/zizifn/v2ray-heroku",
+    "repository": "https://github.com/zizifn/v2ray-heroku",
+    "stack": "container"
+}
